@@ -21,7 +21,7 @@ const projects = [
     title: "My Portfolio",
     description:
       "Responsive developer portfolio with smooth UI transitions, minimal design and dynamic routing. Showcases work and skills with modern design standards.",
-    link: "https://adityaportfolio-ten.vercel.app/",
+    link: "https://divyanshu-grover-portfolio.vercel.app/",
     image: portfolioImg,
     stack: ["React", "Tailwind CSS", "Framer Motion"],
   },
