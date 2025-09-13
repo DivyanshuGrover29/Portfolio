@@ -26,20 +26,13 @@ Welcome to my personal portfolio website! Built using **React.js** and **Tailwin
 
 ---
 
-### 📸 Sneak Peek
-
-![image](https://github.com/user-attachments/assets/3b276383-40d9-4248-92d6-814455b50a97)
-
-
-
 ### 📫 Contact
 
 Let’s connect!
 
-- 📧 Email: kumaraditya1814@gmail.com
-- 📞 Phone: 9693968375
-- 💼 LinkedIn: https://www.linkedin.com/in/kumar-aditya-098202257/
-- 🐱 GitHub: [https://github.com/Kumaraditya18](https://github.com/Kumaraditya18)
+- 📧 Email: divyanshugrover2904@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/divyanshu-grover-658a79269/
+- 🐱 GitHub: [https://github.com/DivyanshuGrover29](https://github.com/DivyanshuGrover29)
 
 ---
 
